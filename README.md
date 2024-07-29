@@ -3,7 +3,7 @@
 
 ## ✨ Um Pouquinho Sobre Mim:
 
-- 🌱 Atualmente estou fazendo o Bootcamp na Generation Brasil
+- 🌱 Participante do Bootcamp na Generation Brasil
 - 👩‍🎓 Faculdade de ADS
 - 💡 Criativa
 - ✈️ Amo Viajar
